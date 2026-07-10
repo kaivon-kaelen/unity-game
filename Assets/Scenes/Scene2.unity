@@ -1324,6 +1324,10 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 3882857473836650277, guid: 0f408d7638814a7409935c444df4a02d, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 16f4ac9ef2e7b05498b2bbfd53622ea9, type: 2}
     - target: {fileID: 8993497785722400205, guid: 0f408d7638814a7409935c444df4a02d, type: 3}
       propertyPath: _data._json
       value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"weapon_ref","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
