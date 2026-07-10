@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c7b155f7d186aa14fb9da4c43fd23f04
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163802
+  packageName: Bolt
+  packageVersion: 1.4.16
+  assetPath: Assets/Bolt/Ludiq/Assemblies/Ionic.Zip.xml
+  uploadId: 505848

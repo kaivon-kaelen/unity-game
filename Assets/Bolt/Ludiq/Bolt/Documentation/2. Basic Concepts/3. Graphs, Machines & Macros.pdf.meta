@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 08f6dac59237ee44890aab9b9070fa69
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163802
+  packageName: Bolt
+  packageVersion: 1.4.16
+  assetPath: Assets/Bolt/Ludiq/Bolt/Documentation/2. Basic Concepts/3. Graphs, Machines
+    & Macros.pdf
+  uploadId: 505848

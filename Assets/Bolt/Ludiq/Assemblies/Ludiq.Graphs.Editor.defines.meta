@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: aa3eb311080f6234b8f67de6b9918163
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163802
+  packageName: Bolt
+  packageVersion: 1.4.16
+  assetPath: Assets/Bolt/Ludiq/Assemblies/Ludiq.Graphs.Editor.defines
+  uploadId: 505848

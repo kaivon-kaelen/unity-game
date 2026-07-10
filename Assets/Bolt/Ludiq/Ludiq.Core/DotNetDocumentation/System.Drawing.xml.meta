@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fe01003620cce3440875f86c0c28cf1c
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163802
+  packageName: Bolt
+  packageVersion: 1.4.16
+  assetPath: Assets/Bolt/Ludiq/Ludiq.Core/DotNetDocumentation/System.Drawing.xml
+  uploadId: 505848

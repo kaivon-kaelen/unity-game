@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7f818a9345006a24fb9328a53a9cd953
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163802
+  packageName: Bolt
+  packageVersion: 1.4.16
+  assetPath: Assets/Bolt/Ludiq/Ludiq.Core/DotNetDocumentation/System.Windows.Presentation.xml
+  uploadId: 505848

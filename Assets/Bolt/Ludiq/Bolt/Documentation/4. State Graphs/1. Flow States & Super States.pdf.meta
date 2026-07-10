@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0a63b817943edbf4d8d484ada7d4eb7f
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163802
+  packageName: Bolt
+  packageVersion: 1.4.16
+  assetPath: Assets/Bolt/Ludiq/Bolt/Documentation/4. State Graphs/1. Flow States
+    & Super States.pdf
+  uploadId: 505848

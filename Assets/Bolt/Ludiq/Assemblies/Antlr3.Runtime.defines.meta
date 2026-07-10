@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 36a8ba9dd8001b34fa1f4262d190207d
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163802
+  packageName: Bolt
+  packageVersion: 1.4.16
+  assetPath: Assets/Bolt/Ludiq/Assemblies/Antlr3.Runtime.defines
+  uploadId: 505848

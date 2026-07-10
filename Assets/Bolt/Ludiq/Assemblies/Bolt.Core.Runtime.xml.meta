@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0d42d77cbe33aa3409a57f22de6a5e8c
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163802
+  packageName: Bolt
+  packageVersion: 1.4.16
+  assetPath: Assets/Bolt/Ludiq/Assemblies/Bolt.Core.Runtime.xml
+  uploadId: 505848
