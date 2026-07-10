@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8c9a41de87a31a442910940d9419686f
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163802
+  packageName: Bolt
+  packageVersion: 1.4.16
+  assetPath: Assets/Bolt/Ludiq/Ludiq.Core/DotNetDocumentation/System.Data.Services.xml
+  uploadId: 505848

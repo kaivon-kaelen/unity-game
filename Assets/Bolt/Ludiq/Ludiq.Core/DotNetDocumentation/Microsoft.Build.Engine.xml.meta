@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 10f89472b305369488c83525cea09397
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163802
+  packageName: Bolt
+  packageVersion: 1.4.16
+  assetPath: Assets/Bolt/Ludiq/Ludiq.Core/DotNetDocumentation/Microsoft.Build.Engine.xml
+  uploadId: 505848

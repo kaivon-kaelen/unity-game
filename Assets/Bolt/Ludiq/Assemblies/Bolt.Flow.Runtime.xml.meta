@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 290b22fe987397e4d82dfeae54719771
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163802
+  packageName: Bolt
+  packageVersion: 1.4.16
+  assetPath: Assets/Bolt/Ludiq/Assemblies/Bolt.Flow.Runtime.xml
+  uploadId: 505848

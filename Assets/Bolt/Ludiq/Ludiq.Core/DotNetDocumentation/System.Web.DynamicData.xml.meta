@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d8188e1e2141b9c4f94cf2b37d4da688
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163802
+  packageName: Bolt
+  packageVersion: 1.4.16
+  assetPath: Assets/Bolt/Ludiq/Ludiq.Core/DotNetDocumentation/System.Web.DynamicData.xml
+  uploadId: 505848

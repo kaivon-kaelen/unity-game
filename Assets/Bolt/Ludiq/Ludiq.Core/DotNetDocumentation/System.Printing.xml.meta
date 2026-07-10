@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 15e1ff06ffe1666438845738979cd832
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163802
+  packageName: Bolt
+  packageVersion: 1.4.16
+  assetPath: Assets/Bolt/Ludiq/Ludiq.Core/DotNetDocumentation/System.Printing.xml
+  uploadId: 505848

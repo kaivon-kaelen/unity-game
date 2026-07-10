@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0f1400336600a11408c348181ca0e551
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163802
+  packageName: Bolt
+  packageVersion: 1.4.16
+  assetPath: Assets/Bolt/Ludiq/Bolt/Documentation/4. State Graphs/2. Transitions.pdf
+  uploadId: 505848

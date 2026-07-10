@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 97170c51311304f0fb3da898a67bb754
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163802
+  packageName: Bolt
+  packageVersion: 1.4.16
+  assetPath: Assets/Bolt/Ludiq/Bolt.Core/Generated/Variables/Resources/SavedVariables.asset
+  uploadId: 505848

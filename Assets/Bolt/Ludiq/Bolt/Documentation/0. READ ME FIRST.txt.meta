@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3048cda6f528a32428ad30beaed9139c
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163802
+  packageName: Bolt
+  packageVersion: 1.4.16
+  assetPath: Assets/Bolt/Ludiq/Bolt/Documentation/0. READ ME FIRST.txt
+  uploadId: 505848

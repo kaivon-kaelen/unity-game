@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b929b0d18790e494bab2d73630131cc0
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163802
+  packageName: Bolt
+  packageVersion: 1.4.16
+  assetPath: Assets/Bolt/Ludiq/Assemblies/YamlDotNet.xml
+  uploadId: 505848

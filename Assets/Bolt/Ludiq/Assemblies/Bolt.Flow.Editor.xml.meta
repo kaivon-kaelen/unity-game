@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f657819f9608b92438169bf7102642fd
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163802
+  packageName: Bolt
+  packageVersion: 1.4.16
+  assetPath: Assets/Bolt/Ludiq/Assemblies/Bolt.Flow.Editor.xml
+  uploadId: 505848

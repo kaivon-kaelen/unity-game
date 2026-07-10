@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 175ea90a2e51e407ab017481d1af4d9b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163802
+  packageName: Bolt
+  packageVersion: 1.4.16
+  assetPath: Assets/Bolt/Ludiq/Bolt.Core/Generated/ProjectSettings.asset
+  uploadId: 505848

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 449cfd1a8b1bbf04fb61b95954a202f2
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163802
+  packageName: Bolt
+  packageVersion: 1.4.16
+  assetPath: Assets/Bolt/Ludiq/Assemblies/Ludiq.Graphs.Runtime.xml
+  uploadId: 505848

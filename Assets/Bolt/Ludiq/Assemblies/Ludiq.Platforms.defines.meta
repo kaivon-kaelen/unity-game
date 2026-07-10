@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1f2b92c76a37ee34d8b9e8f48e83705c
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163802
+  packageName: Bolt
+  packageVersion: 1.4.16
+  assetPath: Assets/Bolt/Ludiq/Assemblies/Ludiq.Platforms.defines
+  uploadId: 505848
