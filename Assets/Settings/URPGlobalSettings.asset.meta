@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4e75ba81aa2bb134297ed92413bb0163
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255873
+  packageName: Fast Dynamic Global Illumination
+  packageVersion: 1.0
+  assetPath: Assets/Settings/URPGlobalSettings.asset
+  uploadId: 594825

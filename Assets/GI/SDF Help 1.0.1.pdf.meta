@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: beed38343503048c08c7d8020ccf4c70
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255873
+  packageName: Fast Dynamic Global Illumination
+  packageVersion: 1.0
+  assetPath: Assets/GI/SDF Help 1.0.1.pdf
+  uploadId: 594825

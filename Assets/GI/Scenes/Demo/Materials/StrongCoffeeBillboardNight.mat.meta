@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 16c3b05df40e3f44ba867e244e8996ac
+timeCreated: 1507471078
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255873
+  packageName: Fast Dynamic Global Illumination
+  packageVersion: 1.0
+  assetPath: Assets/GI/Scenes/Demo/Materials/StrongCoffeeBillboardNight.mat
+  uploadId: 594825

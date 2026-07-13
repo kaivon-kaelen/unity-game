@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ee1361d1833368a48b665bc7736cc0f5
+timeCreated: 1507471078
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 255873
+  packageName: Fast Dynamic Global Illumination
+  packageVersion: 1.0
+  assetPath: Assets/GI/Scenes/Demo/Materials/StrongCoffeeBillboardNightBRIGHT.mat
+  uploadId: 594825
