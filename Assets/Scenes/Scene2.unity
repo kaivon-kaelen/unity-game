@@ -666,7 +666,7 @@ Transform:
   m_GameObject: {fileID: 63013831}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -158.5, y: -684.97, z: 426}
+  m_LocalPosition: {x: -161, y: -684.97, z: 426}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6891,7 +6891,6 @@ Terrain:
   m_AllowAutoConnect: 1
   m_EnableHeightmapRayTracing: 1
   m_EnableTreesAndDetailsRayTracing: 0
-  m_EnableHeightmapLODFrustumCulling: 1
   m_TreeMotionVectorModeOverride: 3
 --- !u!4 &842382134
 Transform:
@@ -7549,7 +7548,6 @@ MonoBehaviour:
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
-  m_characterHorizontalScale: 1
   m_wordSpacing: 0
   m_lineSpacing: 0
   m_lineSpacingMax: 0
@@ -8826,8 +8824,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 256.25, y: -31.50011}
-  m_SizeDelta: {x: 512.5, y: 315}
+  m_AnchoredPosition: {x: 0, y: -9.273972}
+  m_SizeDelta: {x: 0, y: 315}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1078519571
 MonoBehaviour:
@@ -10438,7 +10436,6 @@ MonoBehaviour:
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
-  m_characterHorizontalScale: 1
   m_wordSpacing: 0
   m_lineSpacing: 0
   m_lineSpacingMax: 0
@@ -11328,7 +11325,7 @@ Transform:
   m_GameObject: {fileID: 1421838139}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -179.23, y: -684.97, z: 415.34}
+  m_LocalPosition: {x: -179.23, y: -684.97, z: 423.67624}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -14487,8 +14484,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0.22601318}
-  m_SizeDelta: {x: 1, y: 253.26001}
+  m_AnchoredPosition: {x: 0, y: -9.773987}
+  m_SizeDelta: {x: 1, y: 313.26}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1613316878
 MonoBehaviour:
