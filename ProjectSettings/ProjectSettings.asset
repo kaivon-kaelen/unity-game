@@ -12,17 +12,17 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
-  productName: My project (1)
+  companyName: Je suis une compagnie
+  productName: Medieval Appocalyps
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
-  m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
+  m_SplashScreenBackgroundColor: {r: 0.8, g: 0.8, b: 0.8, a: 1}
   m_ShowUnitySplashScreen: 1
   m_ShowUnitySplashLogo: 1
   m_SplashScreenOverlayOpacity: 1
   m_SplashScreenAnimation: 1
-  m_SplashScreenLogoStyle: 1
-  m_SplashScreenDrawMode: 0
+  m_SplashScreenLogoStyle: 0
+  m_SplashScreenDrawMode: 1
   m_SplashScreenBackgroundAnimationZoom: 1
   m_SplashScreenLogoAnimationZoom: 1
   m_SplashScreenBackgroundLandscapeAspect: 1
@@ -39,7 +39,43 @@ PlayerSettings:
     y: 0
     width: 1
     height: 1
-  m_SplashScreenLogos: []
+  m_SplashScreenLogos:
+  - logo: {fileID: 10404, guid: 0000000000000000f000000000000000, type: 0}
+    duration: 2
+  - logo: {fileID: 21300000, guid: f591fe7d1f7be64438c681943267d3b6, type: 3}
+    duration: 4
+  - logo: {fileID: 21300000, guid: a8d8fecf32415e94a81f70181df7477e, type: 3}
+    duration: 4
+  - logo: {fileID: 21300000, guid: 18f121bdd35ffca4f9ad405b2ad2e80f, type: 3}
+    duration: 4
+  - logo: {fileID: 21300000, guid: 3ac5a1c294a0a7f4f8502c03ebca7da4, type: 3}
+    duration: 4
+  - logo: {fileID: 21300000, guid: fa2fa15d4c3fbb6419d05715b249dd28, type: 3}
+    duration: 4
+  - logo: {fileID: 21300000, guid: 215b6e61274b43340a6259a9814683ea, type: 3}
+    duration: 4
+  - logo: {fileID: 21300000, guid: 10704532d3d748e419b87c21ba5a3a57, type: 3}
+    duration: 4
+  - logo: {fileID: 21300000, guid: e283614c96b86a24fa132d70b7908fa5, type: 3}
+    duration: 4
+  - logo: {fileID: 21300000, guid: f04f83723b9bd6942a1a96405cb85cf6, type: 3}
+    duration: 4
+  - logo: {fileID: 21300000, guid: 9ed6e3f9a4cfeee43ae0f84aa4e0a3dd, type: 3}
+    duration: 4
+  - logo: {fileID: 21300000, guid: d2e80f28164df634384da5fc3122cf4f, type: 3}
+    duration: 4
+  - logo: {fileID: 21300000, guid: 5862bd8df75e82842a66678955547fef, type: 3}
+    duration: 4
+  - logo: {fileID: 21300000, guid: b5d14ca76ee048d4f86c8bd22ab1bea8, type: 3}
+    duration: 4
+  - logo: {fileID: 21300000, guid: 75052ac3cc12ac147bc45c70dc7ca772, type: 3}
+    duration: 4
+  - logo: {fileID: 21300000, guid: e25e569d32bc343498ed66b69afb963a, type: 3}
+    duration: 4
+  - logo: {fileID: 21300000, guid: bc3949eda39ddf546bc14cc28ff2048e, type: 3}
+    duration: 4
+  - logo: {fileID: 21300000, guid: aac4ddf7d10430d418e094f8509fd318, type: 3}
+    duration: 4
   m_VirtualRealitySplashScreen: {fileID: 0}
   m_HolographicTrackingLossScreen: {fileID: 0}
   defaultScreenWidth: 1024
@@ -293,7 +329,49 @@ PlayerSettings:
   AndroidAppBundleSizeToValidate: 150
   AndroidReportGooglePlayAppDependencies: 1
   androidSymbolsSizeThreshold: 800
-  m_BuildTargetIcons: []
+  m_BuildTargetIcons:
+  - m_BuildTarget: Standalone
+    m_Icons:
+    - serializedVersion: 2
+      m_Icon: {fileID: 2800000, guid: 00691d07bfee79844946c1560528733a, type: 3}
+      m_Width: 1024
+      m_Height: 1024
+      m_Kind: 0
+    - serializedVersion: 2
+      m_Icon: {fileID: 2800000, guid: 00691d07bfee79844946c1560528733a, type: 3}
+      m_Width: 512
+      m_Height: 512
+      m_Kind: 0
+    - serializedVersion: 2
+      m_Icon: {fileID: 0}
+      m_Width: 256
+      m_Height: 256
+      m_Kind: 0
+    - serializedVersion: 2
+      m_Icon: {fileID: 0}
+      m_Width: 128
+      m_Height: 128
+      m_Kind: 0
+    - serializedVersion: 2
+      m_Icon: {fileID: 0}
+      m_Width: 64
+      m_Height: 64
+      m_Kind: 0
+    - serializedVersion: 2
+      m_Icon: {fileID: 0}
+      m_Width: 48
+      m_Height: 48
+      m_Kind: 0
+    - serializedVersion: 2
+      m_Icon: {fileID: 0}
+      m_Width: 32
+      m_Height: 32
+      m_Kind: 0
+    - serializedVersion: 2
+      m_Icon: {fileID: 0}
+      m_Width: 16
+      m_Height: 16
+      m_Kind: 0
   m_BuildTargetPlatformIcons:
   - m_BuildTarget: iPhone
     m_Icons:
@@ -834,7 +912,7 @@ PlayerSettings:
     PS4: UNITY_POST_PROCESSING_STACK_V2
     PS5: UNITY_POST_PROCESSING_STACK_V2
     QNX: UNITY_POST_PROCESSING_STACK_V2
-    Standalone: UNITY_POST_PROCESSING_STACK_V2
+    Standalone: UNITY_POST_PROCESSING_STACK_V2;SENTIS_ANALYTICS_ENABLED;APP_UI_EDITOR_ONLY
     VisionOS: UNITY_POST_PROCESSING_STACK_V2
     WebGL: UNITY_POST_PROCESSING_STACK_V2
     XboxOne: UNITY_POST_PROCESSING_STACK_V2
